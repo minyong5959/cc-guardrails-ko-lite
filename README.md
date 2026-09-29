@@ -61,6 +61,8 @@ MIT. `LICENSE` 참고.
 
 ## Pro 버전 (29,000원)
 
+구매: https://bapul.gumroad.com/l/npypf
+
 Lite 는 단독으로 쓸 수 있다. Pro 는 Lite 2종에 운영 사고 방지 훅 6종과 규칙·해설서·설치기를 더한다.
 
 | | Lite (무료) | Pro (29,000원) |
